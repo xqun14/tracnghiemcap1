@@ -1,0 +1,96 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/*Ở DƯỚI LÀ CSS PHẦN INDEX*/
+input[type='text'] {
+    border: none;
+    outline: none;
+    font-size: 15px;
+    background: transparent;
+    border-radius: 2px;
+    border-bottom: 1px solid #fff;
+    color: #FFF;
+    margin-bottom: 10px;
+}
+
+.btn-next {
+    border: 1px solid #fff;
+    color: #fff;
+    background: transparent;
+    font-weight: 600;
+}
+
+.btn-next:hover {
+    background: #fff;
+    font-weight: 600;
+    color: #000;
+}
+
+.header {
+    background: rgba(0, 0, 0, .8);
+    color: #fff;
+}
+
+label {
+    width: 100px;
+}
+
+.body-image {
+    background-image: url(../image/body-image.jpg);
+    height: 100%;
+    background-position: 50% 25%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.body-form {
+    padding: 5px;
+    margin-top: 150px;
+    border-radius: 10px;
+    background: rgba(0, 0, 0, .8);
+    color: #fff;
+}
+
+/*Ở TRÊN LÀ CSS PHẦN INDEX*/
+
+/*Ở DƯỚI LÀ CSS PHẦN DS_BAITHI*/
+/* .o_tbt {border:1px solid black; width:200px; padding-left: 5px; }
+.o_socau {border:1px solid black; width:80px; text-align: center; }
+.o_lambai {border:1px solid black; width: 100px; padding: 5px 20px 5px 20px;}
+.header-form{
+    background: #1B926C;
+    color:#fff;
+    padding: 10px ;}
+.link {text-decoration: none; color: #fff; font-size: 35px;}
+.link:hover {text-decoration: none; color: #fff; font-size: 35px;} */
+/*Ở TRÊN LÀ CSS PHẦN DS_BAITHI*/
+
+
+
+/*Ở DƯỚI LÀ CSS PHẦN KETQUA*/
+.infor-form {
+    padding: 5px;
+    margin-top: 150px;
+    border-radius: 10px;
+    background-color: #1B926C;
+    color: #fff;
+}
+
+
+.nen {
+    background-color: rgb(214, 239, 234);
+}
+
+.da_dung {
+    background: #54FF9F;
+    opacity: 0.8;
+    border-radius: 5px;
+    width: 100%;
+}
+
+.da_sai {
+    background: #FF0033;
+    opacity: 0.7;
+    border-radius: 5px;
+}
